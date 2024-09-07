@@ -1,0 +1,15 @@
+D:\Programming\C#\BattleShips\BattleShips\bin\Debug\net6.0\BattleShips.exe
+D:\Programming\C#\BattleShips\BattleShips\bin\Debug\net6.0\BattleShips.deps.json
+D:\Programming\C#\BattleShips\BattleShips\bin\Debug\net6.0\BattleShips.runtimeconfig.json
+D:\Programming\C#\BattleShips\BattleShips\bin\Debug\net6.0\BattleShips.dll
+D:\Programming\C#\BattleShips\BattleShips\bin\Debug\net6.0\BattleShips.pdb
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\BattleShips.csproj.AssemblyReference.cache
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\BattleShips.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\BattleShips.AssemblyInfoInputs.cache
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\BattleShips.AssemblyInfo.cs
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\BattleShips.csproj.CoreCompileInputs.cache
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\BattleShips.dll
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\refint\BattleShips.dll
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\BattleShips.pdb
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\BattleShips.genruntimeconfig.cache
+D:\Programming\C#\BattleShips\BattleShips\obj\Debug\net6.0\ref\BattleShips.dll
